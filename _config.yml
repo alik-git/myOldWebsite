@@ -56,7 +56,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: traction  # your blog must have a name for it to show up in the nav bar
+blog_name: writingPractice  # your blog must have a name for it to show up in the nav bar
 blog_description: A blog powered mostly by daydreaming.
 permalink: /blog/:year/:title/
 
