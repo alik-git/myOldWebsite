@@ -7,6 +7,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
+  portrait: portrait.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -16,21 +17,31 @@ news: true
 social: true
 ---
 
-I am currently a robotics researcher at the [Robotics Vision & Learning Lab][]{:target="_blank"} at the [University of Toronto][]{:target="_blank"}, and actively seeking software engineering or research roles in robotics and/or machine learning.
+I am currently a researcher at the [Robotics Vision & Learning Lab][]{:target="_blank"} at the [University of Toronto][]{:target="_blank"}, and **actively seeking software engineering or research roles in robotics and/or machine learning at this time**.
 
-If you have any such opportunities available please email me at ali.kuwajerwala@mail.utoronto.ca
-
-Previously I worked as a Software Developer at [Epson Canada] and a Teaching Assistant at the University of Toronto, where I also completed my Bachelors Degree, majoring in Computer Science and Math.
-
-I've been fascinated by science and technology for as long as I can remember. 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
+**If you have any such opportunities available please email me at ali.kuwajerwala@mail.utoronto.ca**
 
 [Robotics Vision & Learning Lab]: https://rvl.cs.toronto.edu/
 [University of Toronto]: https://www.utoronto.ca/
+
+Previously I worked as a Software Developer at [Epson Canada][]{:target="_blank"} and a Teaching Assistant at the University of Toronto [Computer Science Department][]{:target="_blank"}, where I also completed my Bachelors Degree, majoring in Computer Science and Math. 
+
+Upon graduating I received the NSERC [Undergraduate Student Research Award][]{:target="_blank"} which funded my current research where I was supervised by [Prof. Florian Shkurti][]{:target="_blank"}. 
+
+[Epson Canada]: https://epson.ca/about-us
+[Computer Science Department]: https://www.utm.utoronto.ca/math-cs-stats/
+[Undergraduate Student Research Award]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
+[Prof. Florian Shkurti]: http://www.cs.toronto.edu/~florian/
+
+My research interests lie within machine learning and robotics, specifically I have worked on several projects ranging from [safety analysis for autonomous systems][]{:target="_blank"}; [autonomous driving][]{:target="_blank"}; [reinforcement learning][]{:target="_blank"}; to [neural network interpretability][]{:target="_blank"}. 
+
+[safety analysis for autonomous systems]: https://rvl.cs.toronto.edu/backwards-reachability/ 
+[autonomous driving]: https://github.com/Autonomous-Robotics-UTM/Imitation-Learning-Net/blob/master/Autonomous%20Driving%20Through%20Imitation%20Learning.pdf
+[reinforcement learning]: https://github.com/alik-git/Pong-DQN
+[neural network interpretability]: https://github.com/alik-git/Feature-Visualization-Notebook
+
+
+I also make [android apps][]{:target="_blank"}, and you can view all my other projects on my [github profile][]{:target="_blank"}.
+
+[android apps]: https://play.google.com/store/apps/details?id=com.circuitstudio2016.circuits
+[github profile]: https://github.com/alik-git
