@@ -48,7 +48,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to get in touch with me via email, and to check out my github or linkdin profiles.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -57,7 +57,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: writingPractice  # your blog must have a name for it to show up in the nav bar
-blog_description: A blog powered mostly by daydreaming.
+blog_description: A blog powered mostly by daydreaming.  <br /> It's just placeholders atm, but I'll be posting stuff soon!
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -80,6 +80,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  bookreviews:
+    output: true
+    permalink: /bookreviews/:path/
 
 news_limit: 5
 
