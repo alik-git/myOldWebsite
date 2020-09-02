@@ -22,11 +22,11 @@ I am currently a researcher at the [Robotics Vision & Learning Lab][]{:target="_
 
 Previously I worked as a Software Developer at [Epson Canada][]{:target="_blank"} and a Teaching Assistant at the University of Toronto [Computer Science Department][]{:target="_blank"}, where I also completed my Bachelors Degree, majoring in Computer Science and Math. 
 
-Upon graduating I received the NSERC [Undergraduate Student Research Award][]{:target="_blank"} which funded my current research where I was supervised by [Prof. Florian Shkurti][]{:target="_blank"}. 
+Upon graduating I received the [NSERC Undergraduate Student Research Award][]{:target="_blank"} which funded my current research where I was supervised by [Prof. Florian Shkurti][]{:target="_blank"}. 
 
 [Epson Canada]: https://epson.ca/about-us
 [Computer Science Department]: https://www.utm.utoronto.ca/math-cs-stats/
-[Undergraduate Student Research Award]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
+[NSERC Undergraduate Student Research Award]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 [Prof. Florian Shkurti]: http://www.cs.toronto.edu/~florian/
 
 My research interests lie within machine learning and robotics, specifically I have worked on several projects ranging from [safety analysis for autonomous systems][]{:target="_blank"}; [autonomous driving][]{:target="_blank"}; [reinforcement learning][]{:target="_blank"}; to [neural network interpretability][]{:target="_blank"}. I also make [android apps][]{:target="_blank"}, and you can view all my other projects on my [github profile][]{:target="_blank"}.
@@ -42,4 +42,4 @@ My research interests lie within machine learning and robotics, specifically I h
 [android apps]: https://play.google.com/store/apps/details?id=com.circuitstudio2016.circuits
 [github profile]: https://github.com/alik-git
 
-When I'm not staring at a screen all day, I like reading non-fiction, painting / sketching, ping-pong, juggling, and travel.
+When I'm not staring at a screen all day, I like reading non-fiction, meditation, juggling, and travel.
