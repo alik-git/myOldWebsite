@@ -5,13 +5,9 @@ permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: 
   image: prof_pic.jpg
   portrait: portrait.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
@@ -33,7 +29,7 @@ Upon graduating I received the NSERC [Undergraduate Student Research Award][]{:t
 [Undergraduate Student Research Award]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 [Prof. Florian Shkurti]: http://www.cs.toronto.edu/~florian/
 
-My research interests lie within machine learning and robotics, specifically I have worked on several projects ranging from [safety analysis for autonomous systems][]{:target="_blank"}; [autonomous driving][]{:target="_blank"}; [reinforcement learning][]{:target="_blank"}; to [neural network interpretability][]{:target="_blank"}. 
+My research interests lie within machine learning and robotics, specifically I have worked on several projects ranging from [safety analysis for autonomous systems][]{:target="_blank"}; [autonomous driving][]{:target="_blank"}; [reinforcement learning][]{:target="_blank"}; to [neural network interpretability][]{:target="_blank"}. I also make [android apps][]{:target="_blank"}, and you can view all my other projects on my [github profile][]{:target="_blank"}.
 
 [safety analysis for autonomous systems]: https://rvl.cs.toronto.edu/backwards-reachability/ 
 [autonomous driving]: https://github.com/Autonomous-Robotics-UTM/Imitation-Learning-Net/blob/master/Autonomous%20Driving%20Through%20Imitation%20Learning.pdf
@@ -41,7 +37,9 @@ My research interests lie within machine learning and robotics, specifically I h
 [neural network interpretability]: https://github.com/alik-git/Feature-Visualization-Notebook
 
 
-I also make [android apps][]{:target="_blank"}, and you can view all my other projects on my [github profile][]{:target="_blank"}.
+
 
 [android apps]: https://play.google.com/store/apps/details?id=com.circuitstudio2016.circuits
 [github profile]: https://github.com/alik-git
+
+When I'm not staring at a screen all day, I like reading non-fiction, painting / sketching, ping-pong, juggling, and travel.
