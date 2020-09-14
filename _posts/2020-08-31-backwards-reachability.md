@@ -8,11 +8,11 @@ date: 2020-08-31
 authors:
   - name: Ali Kuwajerwala
     url: "https://alik-git.github.io/"
-  affiliations: 
-    - name: Robot Vision and Learning Lab at the University of Toronto
+    affiliations: 
+      name: Robot Vision and Learning Lab at the University of Toronto
   - name: Cathlyn Chen
-  affiliations: 
-    - name: Robot Vision and Learning Lab at the University of Toronto
+    affiliations: 
+      name: Robot Vision and Learning Lab at the University of Toronto
 
 --- 
 
