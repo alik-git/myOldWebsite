@@ -10,7 +10,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -45,7 +45,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  Feel free to get in touch with me via email, and to check out my github or linkdin profiles.
+  Feel free to get in touch with me via email, and to check out my github or linkedin profiles.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
