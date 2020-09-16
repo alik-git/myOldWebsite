@@ -13,10 +13,13 @@ news: true
 social: true
 ---
 
-I just completed my position as researcher at the [Robotics Vision & Learning Lab][]{:target="_blank"} at the [University of Toronto][]{:target="_blank"}, and I am **actively seeking software engineering or research roles in robotics and/or machine learning at this time**.
+I just completed my position as researcher at the [Robotics Vision & Learning Lab][]{:target="_blank"} at the [University of Toronto][]{:target="_blank"}, and I am **actively seeking software engineering or research roles at this time**.
+**You can find my resume [here][]{:target="_blank"}.**
 
 **If you have any such opportunities available please email me at ali.kuwajerwala@mail.utoronto.ca**
 
+
+[here]: /cv.pdf
 [Robotics Vision & Learning Lab]: https://rvl.cs.toronto.edu/
 [University of Toronto]: https://www.utoronto.ca/
 
