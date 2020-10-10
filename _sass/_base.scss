@@ -61,6 +61,8 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid $grey-color-light;
   // opacity: 0.95;
+  .title {
+    color: $theme-color;
 }
 .navbar.navbar-light {
   // Remove link decoration
