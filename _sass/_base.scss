@@ -199,6 +199,24 @@ footer.sticky-bottom {
   }
 }
 
+d-title {
+  background-color: #005ba1d7;
+  color: white;
+  p {
+    // font-weight: lighter;
+    font-size: 1.3rem;
+  }
+
+}
+
+d-byline {
+  font-size: 1.0rem;
+}
+
+d-article {
+  text-align: justify;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
