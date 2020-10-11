@@ -8,12 +8,30 @@ authors:
   - name: Ali Kuwajerwala
     url: "https://alik-git.github.io/"
     affiliations: 
-      name: University of Toronto - Mississauga Campus
+      name: University of Toronto (Mississauga)
 --- 
 
-I had to write two essays about myself for my masters applications for grad-school. 
+> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since it will make me take the process more seriously, and future applicants may benefit from reading them. Here is the first one: 
 
-I figured I should make them public, since they may help future students write their own, and opening them up to criticism forces me to take the exercise more seriously. Here goes:
+My story, like everyone else's, starts with a bang about 13.8 billion years ago. It's easy to forget our humble beginnings given all the progress we've made, but rewind your own clock even a hundred generations, and you'll meet someone scarcely getting by, whose perception of the universe consists mostly of odd guesses. One shudders to think where we'll be a hundred generations from now.
+
+At more local level, I like to think my story is still one of progress. My family comes from rural Gujarat, in India. We went through some hard times when my grandfather suddenly passed away at 52. My father, 24 at the time, took over the family business while also caring for his mother and two younger siblings, and somehow managed to pull through. When things settled down he pursued a successful career in television, directing numerous TV shows and winning 'Best Director' at the 2009 Indian Telly Awards. His siblings were not far behind; his sister is now a fellowship trained surgeon directing the Breast Surgery Program at Prov. Hospital in Michigan and his brother has is own award winning career in Indian cinema as an actor. 
+
+My mother found her challenges growing up in conservative household. She had to fight for her independence and education. Stead
+
+
+
+My mother grew up in a conservative household who expected an early marriage, was not primed for an education, she held her ground and got a bachelors and master in Psychology, started her career as a therapist, jumping ship to sales and marekting, eventually got her MBA, and moved to Canada where she was a reginal manager for Blyth Academy and Georgian College, you are now currently pursing a an immmigration diploma, immigration consultant RCIC llicsenced immigration consultant 
+
+
+
+
+
+
+
+
+
+<!-- they may help future students write their own, and opening them up to criticism forces me to take the exercise more seriously. Here goes:
 
 
 
@@ -22,7 +40,7 @@ This article outlines my research over the summer 2020 term at the Robot Vision 
 It's hosted on the RVL Lab's [website][]{:target="_blank"}, and you reach it by [clicking here][]{:target="_blank"}.
 
 [website]: http://rvl.cs.toronto.edu/
-[clicking here]: https://rvl.cs.toronto.edu/backwards-reachability/
+[clicking here]: https://rvl.cs.toronto.edu/backwards-reachability/ -->
 
 <!-- </div>  -->
 
