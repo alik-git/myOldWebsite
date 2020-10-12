@@ -19,28 +19,34 @@ My story --like everyone else's-- starts from a state of ignorance. It's easy to
 
 On a smaller scale, I like to think my story is still one of progress.  -->
 
-I like to think of my story as one of progress. While immigrating to Canada from India, I moved homes over six times, and spent quite a bit of time away from my parents. For a child, moving often and unexpectedly can erode the sense of permanence and safety typically found in a home. 
-My refuge was my imagination. I lost myself in books in India; whereas with Canada it was the internet. I couldn't believe how much stuff there was on Wikipedia, KhanAcademy, and YouTube. I loved the freedom of it. Of course, that didn't translate to good grades, and even today I'd rather show off my [400,000 points][]{:target="_blank"} on KhanAcademy over my highschool transcript. 
+I like to think of my story as one of progress. While immigrating, I moved homes over six times, and spent quite a bit of time away from my parents. For a child, such disruptions can erode the sense of permanence and safety typically found in a home. 
+My refuge was my imagination. I lost myself in books in India; whereas with Canada it was the internet. I couldn't believe how much stuff there was on Wikipedia, KhanAcademy, and YouTube. I loved the freedom of it. Unfortunately, that didn't translate to good grades and even today I'd rather show off my [400,000 points][]{:target="_blank"} on KhanAcademy over my highschool transcript. 
 
 [400,000 points]: https://www.khanacademy.org/profile/aliqk1603/
 [contributions page]: https://en.wikipedia.org/wiki/Special:Contributions/Aliqk1603
 
-University of Toronto wasn't that different at first. I spent an unhappy year studying finance, almost flunking out, and I couldn't afford the costs of the downtown campus. I had worked summers for a property maintenance company going door-to-door selling their driveway sealing services; ending each day exhausted and covered [head-to-toe][]{:target="_blank"} in tar. It paid well, but not enough to risk re-taking courses. Switching to the Mississauga campus took some pressure off, but switching programs gave back to me the sense of freedom I had missed so dearly. Computer Science had me falling in love with learning all over again.
+University of Toronto wasn't that different at first. I spent an unhappy year studying finance, almost flunking out, and I couldn't afford the costs of the downtown campus. I had worked summers for a property maintenance company going door-to-door selling driveway sealing services, ending each day exhausted and covered [head-to-toe][]{:target="_blank"} in tar. It paid well, but not enough to risk re-taking courses. Switching to the Mississauga campus helped; but it was switching programs to computer science that returned to me that sense of freedom I needed.
 
 [head-to-toe]: https://imgur.com/a/WGpdLac
 
-For the next three years, I was like a sponge absorbing all the CS and Math classes I could find. I went to every single one of my professor's office hours and eventually landed myself a TA position, which polished my communication skills and showed me a different perspective on the classroom. In my third year, I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and operating systems, but also about things like discipline and perseverance. After this I started to seriously pursue robotics, doing an internship at the Robotics Evaluation Team at EPSON, where I learned a ton working with bin picking robots. 
+For the next three years, I was like a sponge absorbing every CS and Math course I could find. I went to all of my professor's office hours and landed myself a TA position, which gave me time on the opposite side of the classroom and polished my communication skills. In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography, but also about things like discipline and perseverance. I also started to seriously pursue robotics, doing an year-long internship at the Robotics Department at EPSON; where I automated parts of their evaluation pipeline and learned all about working with commercial bin picking robots.
 
+<!-- Something I want to make clear is that I did none of this alone. -->
 
+I want to stress that I did none of this alone. 
+I was always surrounded by amazing friends and professors who inspired me to bring my best work to campus every single day. 
+Also my family who supported me throughout; from helping with tuition to sending me hugs and home cooked food.
 
-Something I want to make clear is that I did none of this alone. I was always surrounded by the most amazing friends and professors who inspired me to bring my best work to the table every single day. Also my family who supported me throughout; from helping with tuition to sending me hugs and home cooked food.
+In my senior year, I was a founder of the [UTM Robotics Club][]{:target="_blank"} and elected to the [MCS Society][]{:target="_blank"}. Between those organizations we coordinated and held over 50 events on campus. I personally designed and ran workshops on neural network interpretability and deep Q learning. I also worked on a project in autonomous driving under the UofT Robotics, Vision and Learning Lab. It was a thoroughly rewarding experience that made me realize I truly wanted a career in research.
+Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}; which funded my [work][]{:target="_blank"} at the RVL Lab on reachability analysis attempting to provide safety guarantees for autonomous systems. I have since started work on another research project, with the goal of submitting to ICRA in October.
 
+With my master's I want pursue research towards making deep learning models more interpretable, and autonomous systems safer. 
 
+<!-- I faced more than a few challenges during my university career, and to me that research award represents, more than anything, my progress.  -->
 
-In my fourth year, my friends and I founded the [UTM Robotics Club][]{:target="_blank"}, and I was elected VP of Internal Affairs of the [MCS Society][]{:target="_blank"}. Between those two organizations we coordinated and held over 50 events on campus. I personally ran ML workshops for the Robotics Club; resume workshops and games nights' for MCSS. It was an incredibly rewarding experience, and it made realize that I wasn't done with university just yet. I decided I wanted to pursue graduate studies and immediately began looking for opportunities to gain research experience. Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}; which funded my work on a [research project][]{:target="_blank"} in robotics safety analysis. I have since started work on another project, with the goal of submitting to ICRA in October. 
+I think during university, my success came from the freedom I found in allowing myself to be a work in progress. Even today during moments of doubt, I can use it as a salient reminder to pick myself up, dust off and continue.
 
-
-I faced more than a few challenges during my university career, and to me that award represents more than anything, the overcoming of those challenges. During moments of doubt it's a salient reminder to pick myself up, dust off and continue.
+Thank you for considering my application, I hope to see you soon.
 
 ___
 
@@ -49,7 +55,7 @@ ___
 [MCS Society]: https://www.instagram.com/utmmcss/
 
 
-[research project]: https://rvl.cs.toronto.edu/backwards-reachability/
+[work]: https://rvl.cs.toronto.edu/backwards-reachability/
 
 [Undergraduate Student Research Award]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 
