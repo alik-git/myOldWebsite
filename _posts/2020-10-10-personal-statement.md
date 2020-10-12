@@ -41,12 +41,13 @@ In my fourth year, my friends and I founded the [UTM Robotics Club][]{:target="_
 
 [MCS Society]: https://www.instagram.com/utmmcss/
 
-I decided I wanted to pursue graduate studies and immediately began looking for opportunities to gain research experience. Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}; which funded my work on a [research project][]{:target="_blank"} in robotics safety analysis supervised by Prof. [Florian Shkurti][]{:target="_blank"}. I have since started work on another project, with the goal of submitting to ICRA in October. I faced more than a few challenges in my university career, and to me that reward represents, more than anything, the overcoming of those challenges. During moments of doubt it's a salient reminder to pick myself up, dust off and continue.
+I decided I wanted to pursue graduate studies and immediately began looking for opportunities to gain research experience. Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}; which funded my work on a [research project][]{:target="_blank"} in robotics safety analysis. I have since started work on another project, with the goal of submitting to ICRA in October. I faced more than a few challenges in my university career, and to me that award represents, more than anything, the overcoming of those challenges. During moments of doubt it's a salient reminder to pick myself up, dust off and continue.
 
 [research project]: https://rvl.cs.toronto.edu/backwards-reachability/
 
 [Undergraduate Student Research Award]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 
+<!-- supervised by Prof. [Florian Shkurti][]{:target="_blank"} -->
 
 [Florian Shkurti]: http://www.cs.toronto.edu/~florian/
 
