@@ -10,7 +10,8 @@ authors:
       name: University of Toronto (Mississauga)
 --- 
 
-> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since it will make me take the process more seriously, and future applicants may benefit from reading them. Here is the first one: 
+> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since it will make me take the process more seriously, and future applicants may benefit from reading them. Here is the first one, based on the prompt:
+"Connect the dots. How have the influences in your life shaped you?" 
 
 <!-- 
 My story --like everyone else's-- starts from a state of ignorance. It's easy to forget our humble beginnings given all the progress we've made, but rewind your own clock even a hundred generations, and you'll meet someone who knows embarrassingly little about the universe; just scarcely getting by. One shudders to think where we'll be a hundred generations from now.
