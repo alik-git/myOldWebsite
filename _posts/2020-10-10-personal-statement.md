@@ -29,7 +29,7 @@ University of Toronto wasn't that different at first. I spent an unhappy year st
 
 [head-to-toe]: https://imgur.com/a/WGpdLac
 
-For the next three years, I was a sponge absorbing every CS and Math course I could find. I went to all of my professor's office hours, and was offered a TA position which helped me polish my communication skills. In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography, but also about things like discipline and perseverance. I also started to seriously pursue robotics, doing an year-long internship at the Robotics Department at EPSON; where I automated parts of their evaluation pipeline and learned all about working with bin picking robots.
+For the next three years, I was a sponge; absorbing every CS and Math course I could find. I went to all of my professor's office hours, and was offered a TA position which helped me polish my communication skills. In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography, but also about things like discipline and perseverance. I also started to seriously pursue robotics, doing an year-long internship at EPSON's Robotics Department, where I automated parts of their evaluation pipeline and learned all about working with bin picking robots.
 
 <!-- Something I want to make clear is that I did none of this alone. -->
 
