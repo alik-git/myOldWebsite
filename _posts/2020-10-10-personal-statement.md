@@ -17,7 +17,7 @@ My story --like everyone else's-- starts from a state of ignorance. It's easy to
 
 On a smaller scale, I like to think my story is still one of progress.  -->
 
-I'd like to think my story is one of progress. While immigrating to Canada from India, I moved homes over six times, and spent quite a bit of time away from my parents. For a child, moving often and unexpectedly can erode the sense of permanence and safety typically found in a home. 
+I like to think of my story as one of progress. While immigrating to Canada from India, I moved homes over six times, and spent quite a bit of time away from my parents. For a child, moving often and unexpectedly can erode the sense of permanence and safety typically found in a home. 
 My refuge, was my imagination. I lost myself in books in India; whereas with Canada it was the internet. I couldn't believe how much stuff there was on Wikipedia, KhanAcademy, and YouTube. I loved the freedom of it. Of course, that didn't translate to good grades, and even today I'd rather show off my [400,000 points][]{:target="_blank"} on KhanAcademy over my highschool transcript. 
 
 [400,000 points]: https://www.khanacademy.org/profile/aliqk1603/
