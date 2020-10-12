@@ -36,13 +36,17 @@ Something I want to make clear is that I did none of this alone. I was always su
 
 
 
-In my fourth year, my friends and I founded the [UTM Robotics Club][]{:target="_blank"}, and I was elected VP of Internal Affairs of the [MCS Society][]{:target="_blank"}. Between those two organizations we coordinated and held over 50 events on campus. I personally ran ML workshops for the Robotics Club; resume workshops and games nights' for MCSS. It was an incredibly rewarding experience, and it made realize that I wasn't done with university just yet. 
+In my fourth year, my friends and I founded the [UTM Robotics Club][]{:target="_blank"}, and I was elected VP of Internal Affairs of the [MCS Society][]{:target="_blank"}. Between those two organizations we coordinated and held over 50 events on campus. I personally ran ML workshops for the Robotics Club; resume workshops and games nights' for MCSS. It was an incredibly rewarding experience, and it made realize that I wasn't done with university just yet. I decided I wanted to pursue graduate studies and immediately began looking for opportunities to gain research experience. Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}; which funded my work on a [research project][]{:target="_blank"} in robotics safety analysis. I have since started work on another project, with the goal of submitting to ICRA in October. 
+
+
+I faced more than a few challenges during my university career, and to me that award represents more than anything, the overcoming of those challenges. During moments of doubt it's a salient reminder to pick myself up, dust off and continue.
+
+___
 
 [UTM Robotics Club]: https://utmrobotics.com/
 
 [MCS Society]: https://www.instagram.com/utmmcss/
 
-I decided I wanted to pursue graduate studies and immediately began looking for opportunities to gain research experience. Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}; which funded my work on a [research project][]{:target="_blank"} in robotics safety analysis. I have since started work on another project, with the goal of submitting to ICRA in October. I faced more than a few challenges during my university career, and to me that award represents more than anything, the overcoming of those challenges. During moments of doubt it's a salient reminder to pick myself up, dust off and continue.
 
 [research project]: https://rvl.cs.toronto.edu/backwards-reachability/
 
