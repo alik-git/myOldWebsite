@@ -48,7 +48,7 @@ With my master's I want pursue research towards making deep learning models more
 
 I think during university, my success came from the freedom I found in allowing myself to be a work in progress. Even today during moments of doubt, I can use it as a salient reminder to pick myself up, dust off, and continue.
 
-Thank you for considering my application, I hope to see you soon.
+Thank you for considering my application, I hope to hear from you soon.
 
 ___
 
