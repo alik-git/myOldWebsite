@@ -10,7 +10,7 @@ authors:
       name: University of Toronto (Mississauga)
 --- 
 
-> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since it will make me take the process more seriously, and future applicants may benefit from reading them. Here is the first one, based on the prompt:
+> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since it will make me take the process more seriously, and future applicants may benefit from reading them. Here is the first one, based on the following prompt:
 
 >"Connect the dots. How have the influences in your life shaped you?" 
 
