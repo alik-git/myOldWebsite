@@ -38,7 +38,7 @@ Over the next three years, I was like a sponge absorbing every CS and Math cours
 I devoured audiobooks during my commute and went to all the professor's office hours. 
 In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography; but also about things like discipline and perseverance. 
 <!-- I also started to seriously pursue robotics,  -->
-Later during my internship at EPSON's Robotics Department, while working with bin picking robots I realized just how much unsafe and unnecessary labour the world could eliminate by making progress on the machine learning systems used by autonomous robots.
+Later during my internship at EPSON's Robotics Department, while working with bin picking robots I realized just how much unsafe and unnecessary labour, such as *driveway sealing*, the world could eliminate by making progress on the machine learning systems used by autonomous robots.
 
 
 <!-- making progress on the adaptability  -->
