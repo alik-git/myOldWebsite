@@ -14,6 +14,8 @@ authors:
 
 >"Connect the dots. How have the influences in your life shaped you?" 
 
+> 
+
 <!-- 
 My story --like everyone else's-- starts from a state of ignorance. It's easy to forget our humble beginnings given all the progress we've made, but rewind your own clock even a hundred generations, and you'll meet someone who knows embarrassingly little about the universe; just scarcely getting by. One shudders to think where we'll be a hundred generations from now.
 
@@ -21,36 +23,46 @@ On a smaller scale, I like to think my story is still one of progress.  -->
 
 I like to think of my story as one of progress. 
 
-While immigrating, I moved homes over six times, and spent quite some time away from my parents. For a child, such disruptions can erode the sense of permanence and safety typically found in a home. 
+While immigrating I moved homes over six times, and spent quite some time away from my parents. For a child, such disruptions can erode the sense of permanence and safety typically found in a home. 
 My refuge was my imagination. I lost myself in books in India; whereas with Canada it was the internet. I couldn't believe how much stuff there was on Wikipedia, KhanAcademy, and YouTube. I loved the freedom of it. Unfortunately, that didn't translate to good grades and even today I'd rather show off my [400,000 points][]{:target="_blank"} on KhanAcademy over my highschool transcript. 
 
 [400,000 points]: https://www.khanacademy.org/profile/aliqk1603/
 [contributions page]: https://en.wikipedia.org/wiki/Special:Contributions/Aliqk1603
 
-University of Toronto wasn't that different at first. I spent an unhappy year studying finance, almost flunking out, and I couldn't afford the costs of the downtown campus. I had worked summers for a property maintenance company going door-to-door selling driveway sealing services, ending each day exhausted and covered [head-to-toe][]{:target="_blank"} in tar. It paid well, but not enough to risk re-taking courses. Switching to the Mississauga campus helped; but it was switching programs to computer science that gave me a sense of freedom again.
+University of Toronto wasn't different at first. I spent an unhappy year studying finance, almost flunking out, and I couldn't afford the costs of the downtown campus. I had worked summers for a property maintenance company going door-to-door selling driveway sealing services, ending each day exhausted and covered [head-to-toe][]{:target="_blank"} in tar. It paid well, but not enough to risk re-taking courses. Switching to the Mississauga campus helped; but it was switching programs to computer science that gave me my sense of freedom again.
 
 [head-to-toe]: https://imgur.com/a/WGpdLac
 
-Over the next three years, I was like a sponge absorbing every CS and Math course I could find. I went to all of my professor's office hours, and was offered a TA position which helped me polish my communication skills. In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography, but also about things like discipline and perseverance. I also started to seriously pursue robotics, doing an year-long internship at EPSON's Robotics Department, where I automated parts of their evaluation pipeline and learned all about working with bin picking robots.
+Over the next three years, I was like a sponge absorbing every CS and Math course I could find. 
+<!-- I went to all of my professor's office hours, and was offered a TA position which helped me polish my communication skills.  -->
+I devoured audiobooks during my commute and went to all the professor's office hours. 
+In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography; but also about things like discipline and perseverance. 
+<!-- I also started to seriously pursue robotics,  -->
+Later during my internship at EPSON's Robotics Department, while working with bin picking robots I realized just how much unsafe and unnecessary labour the world could eliminate by making progress on the machine learning used by autonomous robot systems.
+
+
+<!-- making progress on the adaptability  -->
 
 <!-- Something I want to make clear is that I did none of this alone. -->
 
+
+My senior year I was a founder of the [UTM Robotics Club][]{:target="_blank"} and elected to the [MCS Society][]{:target="_blank"}. Between those organizations we coordinated and held over 50 events on campus. I personally designed and ran workshops on neural network interpretability and deep Q learning. 
+We also started work on several long-term projects like using robot cars to collect garbage on campus.
+It was a thoroughly rewarding experience that made me realize I truly wanted a career in research.
+Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"} which funded my [work][]{:target="_blank"} on reachability analysis at the 'Robotics, Vision and Learning Lab' at UTM; attempting to provide safety guarantees for autonomous robot systems. I have since started work there on another research project, with the goal of submitting to ICRA in October.
+
 I want to stress that I did none of this alone. 
-I was always surrounded by amazing friends and faculty who inspired me to bring my best work to campus every single day. 
+I was always surrounded by the most amazing friends and faculty who inspired me to bring my best work to the table every single day. 
 Also my family who supported me throughout; from helping with tuition to sending me hugs and home cooked food.
 
-In my senior year I was a founder of the [UTM Robotics Club][]{:target="_blank"} and elected to the [MCS Society][]{:target="_blank"}. Between those organizations we coordinated and held over 50 events on campus. I personally designed and ran workshops on neural network interpretability and deep Q learning. 
-We also started work on several long-term projects like using RC cars to collect garbage on campus.
-It was a thoroughly rewarding experience that made me realize I truly wanted a career in research.
-Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"}, which funded my [work][]{:target="_blank"} on reachability analysis at the UofT Robotics, Vision and Learning Lab attempting to provide safety guarantees for autonomous systems. I have since started work on another research project there, with the goal of submitting to ICRA in October.
-
-With my master's I want pursue research towards making deep learning models more interpretable and autonomous systems safer. 
 
 <!-- I faced more than a few challenges during my university career, and to me that research award represents, more than anything, my progress.  -->
 
-I think during university, my success came from the freedom I found in allowing myself to be a work in progress. Even today during moments of doubt, I can use it as a salient reminder to pick myself up, dust off, and continue.
+I think during university, what drove my success was the freedom I found in allowing myself to be a work in progress. Even today during moments of doubt, it's a salient reminder to pick myself up, dust off, and continue.
 
-Thank you for considering my application, I hope to hear from you soon.
+With my master's, I want to pursue research towards making deep learning models more interpretable and autonomous robot systems safer. 
+
+Thank you for considering my application, and I hope to hear from you soon.
 
 ___
 
@@ -77,7 +89,7 @@ ___
 </div>
 <div class="caption">
     Photo by Jeanlouis @<a href="https://www.instagram.com/distinctmind/">distinctmind</a>  ~ December 2018 <br>
-    This essay is dedicated the class of 2020; and everyone else who made my university experience unforgettable. <br> You are all my favorite people in the world. 
+    This essay is dedicated to the class of 2020; and everyone else who made my university experience unforgettable.  You are all my favorite people in the world. 
 </div>
 <!-- <div class="caption">
     This essay is dedicated to everyone who made my university experience unforgettable. You are all my favorite people in the world. 
