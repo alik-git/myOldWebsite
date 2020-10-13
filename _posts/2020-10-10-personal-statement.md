@@ -74,8 +74,12 @@ ___
     </div>
 </div>
 <div class="caption">
-    This essay is dedicated to everyone who made my university experience unforgettable. You are all my favorite people in the world. 
+    Photo by Jeanlouis @<a href="https://www.instagram.com/distinctmind/">distinctmind</a>  ~ December 2018 <br>
+    This essay is dedicated the class of 2020; and everyone else who made my university experience unforgettable. <br> You are all my favorite people in the world. 
 </div>
+<!-- <div class="caption">
+    This essay is dedicated to everyone who made my university experience unforgettable. You are all my favorite people in the world. 
+</div> -->
 
 <!-- 
 
