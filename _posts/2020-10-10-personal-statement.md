@@ -10,7 +10,7 @@ authors:
       name: University of Toronto (Mississauga)
 --- 
 
-> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since it will make me take the process more seriously, and future applicants may benefit from reading them. Here is the first one, based on the following prompt:
+> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since future applicants may benefit from reading them. Here is the first one, based on the following prompt:
 
 >"Connect the dots. How have the influences in your life shaped you?" 
 
@@ -19,7 +19,9 @@ My story --like everyone else's-- starts from a state of ignorance. It's easy to
 
 On a smaller scale, I like to think my story is still one of progress.  -->
 
-I like to think of my story as one of progress. While immigrating, I moved homes over six times, and spent quite some time away from my parents. For a child, such disruptions can erode the sense of permanence and safety typically found in a home. 
+I like to think of my story as one of progress. 
+
+While immigrating, I moved homes over six times, and spent quite some time away from my parents. For a child, such disruptions can erode the sense of permanence and safety typically found in a home. 
 My refuge was my imagination. I lost myself in books in India; whereas with Canada it was the internet. I couldn't believe how much stuff there was on Wikipedia, KhanAcademy, and YouTube. I loved the freedom of it. Unfortunately, that didn't translate to good grades and even today I'd rather show off my [400,000 points][]{:target="_blank"} on KhanAcademy over my highschool transcript. 
 
 [400,000 points]: https://www.khanacademy.org/profile/aliqk1603/
@@ -29,7 +31,7 @@ University of Toronto wasn't that different at first. I spent an unhappy year st
 
 [head-to-toe]: https://imgur.com/a/WGpdLac
 
-For the next three years, I was a sponge; absorbing every CS and Math course I could find. I went to all of my professor's office hours, and was offered a TA position which helped me polish my communication skills. In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography, but also about things like discipline and perseverance. I also started to seriously pursue robotics, doing an year-long internship at EPSON's Robotics Department, where I automated parts of their evaluation pipeline and learned all about working with bin picking robots.
+Over the next three years, I was like a sponge absorbing every CS and Math course I could find. I went to all of my professor's office hours, and was offered a TA position which helped me polish my communication skills. In third year I took six courses each semester while also working as a TA. It was by far my toughest and best year academically, with all 'A's and the highest mark in one of my courses. I learned a lot that year, not just about machine learning and cryptography, but also about things like discipline and perseverance. I also started to seriously pursue robotics, doing an year-long internship at EPSON's Robotics Department, where I automated parts of their evaluation pipeline and learned all about working with bin picking robots.
 
 <!-- Something I want to make clear is that I did none of this alone. -->
 
