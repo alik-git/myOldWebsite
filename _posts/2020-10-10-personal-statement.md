@@ -58,8 +58,7 @@ Also my family who supported me throughout; from helping with tuition to sending
 
 <!-- I faced more than a few challenges during my university career, and to me that research award represents, more than anything, my progress.  -->
 
-I think during university, what drove my success was the freedom I found in allowing myself to be a work in progress. Even today during moments of doubt, it's a salient reminder to pick myself up, dust off, and continue.
-
+I think during university, what drove my success was the freedom I found in allowing myself to be a work in progress. Even today during moments of doubt, it's a salient reminder to pick myself up, dust off, and continue. 
 With my master's, I want to pursue research towards making deep learning models more interpretable and autonomous robot systems safer. 
 
 Thank you for considering my application, and I hope to hear from you soon.
