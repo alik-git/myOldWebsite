@@ -46,8 +46,8 @@ Later during my internship at EPSON's Robotics Department, while working with bi
 <!-- Something I want to make clear is that I did none of this alone. -->
 
 
-My senior year I was a founder of the [UTM Robotics Club][]{:target="_blank"} and elected to the [MCS Society][]{:target="_blank"}. Between those organizations we coordinated and held over 50 events on campus. I personally designed and ran workshops on neural network interpretability and deep Q learning. 
-We also started work on several long-term projects like using robot cars to collect garbage on campus.
+My senior year I was a founder of the [UTM Robotics Club][]{:target="_blank"} and elected to the [MCS Society][]{:target="_blank"}. Between those organizations we coordinated and held over 50 events on campus. I personally designed and ran workshops on neural network interpretability and deep Q learning; 
+and we started work on several long-term projects like using robot cars to collect garbage on campus.
 It was a thoroughly rewarding experience that made me realize I truly wanted a career in research.
 Upon graduation, I received my department's NSERC [Undergraduate Student Research Award][]{:target="_blank"} which funded my [work][]{:target="_blank"} on reachability analysis at the 'Robotics, Vision and Learning Lab' at UTM; attempting to provide safety guarantees for autonomous robot systems. I have since started work there on another research project, with the goal of submitting to ICRA in October.
 
