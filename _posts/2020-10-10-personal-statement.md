@@ -23,7 +23,7 @@ On a smaller scale, I like to think my story is still one of progress.  -->
 
 I like to think of my story as one of progress. 
 
-While immigrating I moved homes over six times, and spent quite some time away from my parents. For a child, such disruptions can erode the sense of permanence and safety typically found in a home. 
+While immigrating I moved homes over six times, and spent quite some time away from my parents. At a young age, such disruptions can erode the sense of permanence and safety typically found in a home. 
 My refuge was my imagination. I lost myself in books in India; whereas with Canada it was the internet. I couldn't believe how much stuff there was on Wikipedia, KhanAcademy, and YouTube. I loved the freedom of it. Unfortunately, that didn't translate to good grades and even today I'd rather show off my [400,000 points][]{:target="_blank"} on KhanAcademy over my highschool transcript. 
 
 [400,000 points]: https://www.khanacademy.org/profile/aliqk1603/
