@@ -16,11 +16,11 @@ authors:
 
 --- 
 
-This article outlines my research over the summer 2020 term at the Robot Vision and Learning Lab at the University of Toronto, funded by the NSERC USRA Award.
+This article outlines my research over the summer 2020 term at the Robot Vision and Learning Lab at the University of Toronto, funded by my NSERC USRA Award.
 
-It's hosted on the RVL Lab's [website][]{:target="_blank"}, and you reach it by [clicking here][]{:target="_blank"}.
+It's hosted on the RVL Lab's website and you reach it by [clicking here][]{:target="_blank"}.
 
-[website]: http://rvl.cs.toronto.edu/
+<!-- [website]: http://rvl.cs.toronto.edu/ -->
 [clicking here]: https://rvl.cs.toronto.edu/backwards-reachability/
 
 <!-- 
