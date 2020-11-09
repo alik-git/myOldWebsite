@@ -14,7 +14,7 @@ authors:
 
 >"Connect the dots. How have the influences in your life shaped you?" 
 
-> 
+<!-- >  -->
 
 <!-- 
 My story --like everyone else's-- starts from a state of ignorance. It's easy to forget our humble beginnings given all the progress we've made, but rewind your own clock even a hundred generations, and you'll meet someone who knows embarrassingly little about the universe; just scarcely getting by. One shudders to think where we'll be a hundred generations from now.
