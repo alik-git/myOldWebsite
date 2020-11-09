@@ -7,7 +7,7 @@ authors:
   - name: Ali Kuwajerwala
     url: "https://alik-git.github.io/"
     affiliations: 
-      name: University of Toronto (Mississauga)
+      name: University of Toronto
 --- 
 
 > I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since future applicants may benefit from reading them. Here is the first one, based on the following prompt:
