@@ -10,8 +10,35 @@ authors:
       name: University of Toronto
 --- 
 
-> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since future applicants may benefit from reading them. Here is the second one, which talks about why I want to pursue a masters degree.
+> I had to write two essays about myself for my masters applications for grad-school. I figured I should make them public since future applicants may benefit from reading them. 
 
+>Here is the second one, which talks about why I want to pursue a masters degree and a career in research.
+
+<!-- Robotics research is making huge progress. However,  -->
+There are still a number of challenges to be overcome before robots can become truly ubiquitous in everyday life.
+The same can be said of artificial neural networks (ANNs) and other methods in machine learning.
+Mobile robot systems (MRS) will need to operate in unknown environments, and interact with humans as well as other robots; and they must do so safely, without the risk of injury or property damage. Likewise, ANNs will need to at least be interpretable before they can be put in charge of any safety critical systems, such as mobile robots. I believe these two problems are complementary and my research goals lie at their intersection.
+
+
+
+During highschool, I worked summers for a property maintenance company going door-to-door selling driveway sealing services, ending each day exhausted and covered head-to-toe in tar. Not only was it a stellar education in grit and perseverance; it also gave me a glimpse of the unsafe and arduous labour that many jobs today entail. Long erratic hours, toxic fumes, and hefty tar-covered equipment are simply orthogonal to one's well being in the long term. Much of this type of work can be eliminated with serious progress in machine learning and robotics. During my masters, I would like to make some of that progress right here at UofT.
+
+
+
+<!-- 
+I thoroughly enjoyed that job, and it was by far the best education I've received
+
+It was by far the best education I've ever received
+
+
+My journey towards a research career has been 
+
+My family moved to Canada when I was just starting highschool. It was q
+
+My journey I was on the fence about pursuing a research career until about six months ago. 
+
+
+Although I am open to a variety of research within  -->
 
 
 <!-- 
