@@ -1,6 +1,6 @@
 ---
 layout: redirect
-permalink: /cast/
+permalink: /podcast/
 title: podcast
 description: My Podcast chatterPractice
 rurl: https://anchor.fm/chatterpractice
