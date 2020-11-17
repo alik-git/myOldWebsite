@@ -1,7 +1,7 @@
 ---
 layout: redirect
 permalink: /podcast/
-title: Podcast
+title: podcast
 description: My Podcast chatterPractice
 rurl: https://anchor.fm/chatterpractice
 nav: true
