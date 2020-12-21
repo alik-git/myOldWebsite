@@ -13,6 +13,8 @@ news: true
 social: true
 ---
 
+Hi there! I'm a researcher and software engineer specializing in robotics and machine learning.
+
 I just completed my position as researcher at the [Robotics Vision & Learning Lab][]{:target="_blank"} at the [University of Toronto][]{:target="_blank"}, and I am **actively seeking software engineering or research roles at this time**.
 **You can find my resume [here][]{:target="_blank"}.**
 
