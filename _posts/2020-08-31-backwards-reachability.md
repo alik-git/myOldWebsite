@@ -1,7 +1,7 @@
 ---
 layout: redirect
 title: backwards reachability tutorial
-description: Using reachability analysis to determine/compute safety guarantees for control policies.
+description: Using reachability analysis to compute safety guarantees for safety critical dynamic systems.
 rurl: https://rvl.cs.toronto.edu/backwards-reachability/
 
 date: 2020-08-31
