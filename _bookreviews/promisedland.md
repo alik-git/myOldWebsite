@@ -35,9 +35,9 @@ He tackles a wide range of these including but not limited to nuclear weapons pr
 
 An incredibly skilled orator, prepare to be disarmed by his wit, charm, and sheer authenticity. You'll find yourself inspired, and thinking bigger---about the entirety of the world---as opposed to just your little corner of it.
 
-Books like this are a great answer to the question _"Why read books?"_  and especially _"Why read long non-fiction books?"_
+In fact, I think books like this are a great answer to the question _"Why read books?"_  and especially _"Why read long non-fiction books?"_
 
-Because, simply put, empowered with a wider _perspective_ on life, you can expect to make wiser _choices_ about life. I'd gladly recommend the book to anyone interested in politics, and _especially_ to anyone uninterested in politics. It's well worth your time.
+Because, simply put, empowered with a wider _perspective_ on life, you can expect to make wiser _choices_ about life. I'd gladly recommend this title to anyone interested in politics, and _especially_ to anyone _uninterested_ in politics. It's well worth your time.
 
 I'll leave you with a quote I'm reminded of by the famous philosopher Albert Camus:
 
