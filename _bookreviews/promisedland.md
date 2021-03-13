@@ -27,7 +27,7 @@ Put yourself in his shoes. No really, _try it_.
 - Imagine being tasked with developing the affordable healthcare infrastructure that will support your nation's most vulnerable citizens.
 - Imagine being tasked with effectively charting the entire world's path to recovery from the worst climate crisis in _anyone's_ lifetime.
 
-Do you know how or even where you would start? If not, wouldn't you like to? If not, really ask yourself why not. What could possibly be more important, or more interesting?
+Do you know how or even where you would start? If not, wouldn't you like to? If the answer is still no, really ask yourself why. What could possibly be more important, or more interesting?
 
 Deliberate and purposeful---yet witty and informal, Obama walks a tightrope few other authors can. He paints for the reader the _big picture_ of politics, which serves to hold your attention while he saturates it with all the detail and nuance necessary to get a preliminary yet thorough understanding of the core issues.
 
