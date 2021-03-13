@@ -24,7 +24,7 @@ As former US President Barack Obama walks you through his first term in office, 
 Put yourself in his shoes. No really, _try it_.
 
 - Imagine being tasked with charting your country's path to recovery from the worst financial crisis in your lifetime. 
-- Imagine being tasked with developing the affordable healthcare infrastructure that will support your nation's most vulnerable citizens.
+- Imagine being tasked with developing the affordable healthcare infrastructure that will support millions of your nation's most vulnerable citizens.
 - Imagine being tasked with effectively charting the entire world's path to recovery from the worst climate crisis in _anyone's_ lifetime.
 
 Do you know how or even where you would start? If not, wouldn't you like to? If the answer is still no, really ask yourself why. What could possibly be more important, or more interesting?
