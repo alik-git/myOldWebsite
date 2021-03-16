@@ -31,7 +31,7 @@ Do you know how or even where you would start? If not, wouldn't you like to? If 
 
 Deliberate and purposeful---yet witty and informal, Obama walks a tightrope few other authors can. He paints for the reader the _big picture_ of politics, which serves to hold your attention while he saturates it with all the detail and nuance necessary to get a preliminary yet thorough understanding of the core issues.
 
-He tackles a wide range of these including but not limited to nuclear weapons proliferation, the reach and the limits of executive power, the increasing polarization and partisanship of modern politics, the inefficiencies of government, natural disaster response and preparedness, immigration reform, diplomacy and foreign affairs, and of course not to mention healthcare and wall street reform. 
+He tackles a wide range of these including but not limited to: nuclear weapons proliferation, the reach and the limits of executive power, the increasing polarization and partisanship of modern politics, the inefficiencies of government, natural disaster response and preparedness, immigration reform, diplomacy and foreign affairs, and of course not to mention healthcare and wall street reform. 
 
 An incredibly skilled orator, prepare to be disarmed by his wit, charm, and sheer authenticity. You'll find yourself inspired, and thinking bigger---about the entirety of the world---as opposed to just your little corner of it.
 
