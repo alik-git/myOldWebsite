@@ -78,7 +78,7 @@ collections:
     output: true
     permalink: /projects/:path/
   bookreviews:
-    output: true
+    output: false
     permalink: /bookreviews/:path/
 
 news_limit: 5
