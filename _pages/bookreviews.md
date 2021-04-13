@@ -3,7 +3,7 @@ layout: page
 permalink: /bookreviews/
 title: book reviews
 description: Here are my thoughts on some of my favorite books I've read.
-nav: true
+nav: false
 
 social: true
 ---
