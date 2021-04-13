@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Casual Book Review: A Promised Land
+title: "Casual Book Review: A Promised Land"
 description: by Barack Obama
 img: https://images2.penguinrandomhouse.com/cover/9781524763169
 importance: 1
