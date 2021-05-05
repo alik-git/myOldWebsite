@@ -12,6 +12,7 @@ importance: 1
 **_A Casual Book Review_**
 
 ---
+HELLO
 
 In my previous [review](/blog/2021/promisedland/) where I talked about Obama's autobiography, I was captivated by the scale of change a single individual could bring about from their government's highest office. However, one can't help but notice that change brought about via a democratic process is often slow and arduous. This is because well-functioning democracies have lots of checks and balances explicitly _designed_ to slow down big changes. And for the record, I think that's mostly a good thing. But it begs the question:
 
