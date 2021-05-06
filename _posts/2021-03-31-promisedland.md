@@ -16,7 +16,7 @@ importance: 1
 
 Politics is as messy, complicated, and controversial as it is **important**. 
 
-How can an any one individual navigate such a vast landscape without being overwhelmed? Without getting tangled in the web of any of its already perplexing niches---each of which is interconnected with the others in subtle yet meaningful ways?
+How can any one individual navigate such a vast landscape without being overwhelmed? Without getting tangled in the web of any of its already perplexing niches---each of which is interconnected with the others in subtle yet meaningful ways?
 
 To be honest, I'm not entirely sure. But I think this book is certainly one place to _start_.
 
