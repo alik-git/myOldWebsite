@@ -14,7 +14,11 @@ importance: 1
 ---
 HELLO
 
-In my previous [review](/blog/2021/promisedland/) where I talked about Obama's autobiography, I was captivated by the scale of change a single individual could bring about from their government's highest office. However, one can't help but notice that change brought about via a democratic process is often slow and arduous. This is because well-functioning democracies have lots of checks and balances explicitly _designed_ to slow down big changes. And for the record, I think that's mostly a good thing. But it begs the question:
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/figs/file.html" height="700" width="100%"></iframe>
+
+This is currently a work in progress.
+
+<!-- In my previous [review](/blog/2021/promisedland/) where I talked about Obama's autobiography, I was captivated by the scale of change a single individual could bring about from their government's highest office. However, one can't help but notice that change brought about via a democratic process is often slow and arduous. This is because well-functioning democracies have lots of checks and balances explicitly _designed_ to slow down big changes. And for the record, I think that's mostly a good thing. But it begs the question:
 
 How can you bring about big changes **_fast?_** 
 
@@ -32,7 +36,7 @@ The book has so many provocative claims that frankly it's hard to pick just one 
 
 > EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network.<br /><br />If you are copying these guys, you aren’t learning from them.
 
-
+ -->
 
 
 <!-- 
