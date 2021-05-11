@@ -2,9 +2,22 @@
 layout: distill
 title: "Climate Change: A TL;DR"
 description: What to do about the current climate crisis
+date: 2021-05-10
+authors:
+  - name: Ali Kuwajerwala
+    url: "https://alihkw.com/"
+    affiliations:
+      name: Planet Earth
+
 # img: 
 importance: 1
 # permalink: /promisedland/
+# layout: distill
+# title: a distill-style blog post
+# description: an example of a distill-style blog post and main elements
+# date: 2018-12-22
+
+
 ---
 
 ---
@@ -12,11 +25,19 @@ importance: 1
 **_A Casual Book Review_**
 
 ---
-HELLO
+Don't forget to hover over the graph, it's interactive!!
+
+You can double click on items in the legend to focus on them.
+
+Clicking once excludes it from the graph.
+
+### Sources of Emission (in Billions of Tons of Carbon)
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/figs/file.html" height="700" width="100%"></iframe>
 
 This is currently a work in progress.
+
+More coming sooooon!!!!
 
 <!-- In my previous [review](/blog/2021/promisedland/) where I talked about Obama's autobiography, I was captivated by the scale of change a single individual could bring about from their government's highest office. However, one can't help but notice that change brought about via a democratic process is often slow and arduous. This is because well-functioning democracies have lots of checks and balances explicitly _designed_ to slow down big changes. And for the record, I think that's mostly a good thing. But it begs the question:
 
