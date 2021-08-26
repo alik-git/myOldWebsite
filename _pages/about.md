@@ -6,14 +6,16 @@ description: a tl;dr about my life
 
 profile:
   align: 
-  image: prof_pic.jpg
-  portrait: portrait.jpg
+  image: /profile_pics/ali_sit_color2.jpg
+  portrait: /profile_pics/backyardcrop3.jpg
 
 news: true
 social: true
 ---
 
-Hi there! I'm a researcher and software engineer specializing in robotics and machine learning. Currently, I am a masters student at [UdeM][]{:target="_blank"} and [Mila][]{:target="_blank"}.
+Hi there! 😃
+
+I'm a researcher and software engineer specializing in robotics and machine learning. Currently, I am a masters student at [UdeM][]{:target="_blank"} and [Mila][]{:target="_blank"}.
 
 [UdeM]: https://diro.umontreal.ca/accueil/
 [Mila]: https://mila.quebec/
