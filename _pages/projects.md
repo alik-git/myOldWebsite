@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A quick rundown of what I've worked on.
-nav: true
+nav: false
 
 social: true
 ---
