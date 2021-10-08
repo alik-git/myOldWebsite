@@ -29,7 +29,7 @@ My research interests lie at the intersection between robotics and artificial in
 
 I've also worked on a few fun coding projects which you can look at via my [github profile][gh].
 
-When I'm not staring at a screen all day, you can find me training jiu-jitsu, listening to audiobooks and podcasts, doodling, and chatting with wonderful people on my [podcast][pd]. ✌️
+When I'm not staring at a screen all day, you can find me training jiu-jitsu, listening to audiobooks and podcasts, doodling, and/or chatting with wonderful people on my [podcast][pd]. ✌️
 
 [lp]: https://liampaull.ca/
 [mlab]: http://montrealrobotics.ca/
