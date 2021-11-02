@@ -25,7 +25,7 @@ Previously, I was a student researcher at the [Robot, Vision and Learning Lab][R
 
 My undergrad was at the [Univeristy of Toronto][uoft] where I studied CS & Math, and also worked as a Teaching Assistant. During my time there I was co-founder of the [UTM Robotics Club][utmr], and a recpient of the [NSERC Undergraduate Student Research Award][na].
 
-My research interests lie at the intersection between robotics and artificial intelligence. I am the joint first author on a [robotics paper][eq] currently under review for the [ICRA 2022][icra22] conference.
+My research interests lie at the intersection between robotics and artificial intelligence. I am the joint first author on a [robotics paper][eq] (you can watch a short video about it [here][eq_vid]) that's currently under review for the [ICRA 2022][icra22] conference.
 
 I've also worked on a few fun coding projects which you can look at via my [github profile][gh].
 
@@ -41,7 +41,8 @@ When I'm not staring at a screen all day, you can find me training jiu-jitsu, li
 [uoft]: https://www.utoronto.ca/
 [utmr]: https://utmrobotics.com/
 [na]: https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp
-[eq]: https://www.youtube.com/watch?v=2dj3QBz0DCk
+[eq]: https://arxiv.org/abs/2110.07668
+[eq_vid]: https://www.youtube.com/watch?v=2dj3QBz0DCk
 [icra22]: https://www.icra2022.org/
 [gh]: https://github.com/alik-git
 [la]: https://www.liquidanalytics.com/
