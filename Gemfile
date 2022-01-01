@@ -7,4 +7,5 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
+    gem 'jekyll-linkpreview' # This is for link preview 
 end
