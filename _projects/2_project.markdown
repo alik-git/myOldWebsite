@@ -45,6 +45,8 @@ And you can check out the code here:
 
 {% linkpreview "https://github.com/MikeS96/bayesbb" %}
 
+And a report coming soon! Stay tuned :P
+
 
 <!-- assets/img/project_assets/
 
