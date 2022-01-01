@@ -1,10 +1,52 @@
 ---
-layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+layout: distill
+title: "Uncertainty Estimation: Not So Bayes-ic"
+description:
+img: /assets/img/project_assets/ift_project_thumb.png
 importance: 2
+date: 2022-01-01
+authors:
+
+
+  - name: Mizu Nishikawa-Toomey
+    # url: "https://alihkw.com/"
+    affiliations:
+      name: Université de Montréal, Mila
+
+  - name: Miguel Saavedra
+    url: "https://mikes96.github.io/"
+    affiliations:
+      name: Université de Montréal, Mila 
+
+  - name: Ali Kuwajerwala
+    url: "https://alihkw.com/"
+    affiliations:
+      name: Université de Montréal, Mila
+
 ---
+
+This was our final project for [Simon Lacoste-Julien's](http://www.iro.umontreal.ca/~slacoste/) [Probabilistic Graphical Models](http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A21/) during Fall 2021.
+
+In this project we provide our own implementation of an approach towards modeling uncertainty in neural networks as proposed in [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424).
+
+
+Here is our poster for a quick overview:
+
+
+<object data="/assets/img/project_assets/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/img/project_assets/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+(PDF)
+
+And you can check out the code here:
+
+{% linkpreview "https://github.com/MikeS96/bayesbb" %}
+
+
+<!-- assets/img/project_assets/
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -35,7 +77,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_assets/IFT_6269_Fall_2021___Final_Project_Poster___Group_16-1.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -74,4 +116,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->
