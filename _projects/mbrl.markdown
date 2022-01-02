@@ -9,11 +9,16 @@ importance: 1
 
 ---
 
+#### Project Description:
+
 During the first semester of my master's, my final project for Liam Paull's Duckietown class was to try and apply model-based RL to learn a latent-space dynamics model for the Duckietown Simulator. 
 
-You can check out the code here: 
+
+#### Github Repo:
 
 {% linkpreview "https://github.com/alik-git/mbrl-lib" %}
+
+#### Project Report:
 
 And the report [here](https://alihkw.com/LaDy%20Duckie%20-%20Model%20Based%20RL%20in%20Gym-Duckietown%20(Report).pdf).
 

@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: "Uncertainty Estimation: Not So Bayes-ic"
-description: Modelling uncertainty in neural networks.
+description: Modelling Uncertainty in Neural Networks.
 img: /assets/img/project_assets/ift_project_thumb.png
 importance: 2
 date: 2022-01-01
@@ -24,11 +24,15 @@ authors:
       name: Université de Montréal, Mila
 
 ---
+### Project Description:
 
-This was our final project for [Simon Lacoste-Julien's](http://www.iro.umontreal.ca/~slacoste/) [Probabilistic Graphical Models](http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A21/) during Fall 2021.
 
-In this project we provide our own implementation of an approach towards modeling uncertainty in neural networks as proposed in [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424).
+This was our final project for [Simon Lacoste-Julien's](http://www.iro.umontreal.ca/~slacoste/) class [Probabilistic Graphical Models](http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A21/) during Fall 2021.
 
+In this project we provide our own implementation of an approach towards modeling uncertainty in neural networks as proposed in the paper [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424).
+
+
+### Project Poster:
 
 Here is our poster for a quick overview:
 
@@ -39,11 +43,16 @@ Here is our poster for a quick overview:
     </embed>
 </object>
 
-(PDF)
+
+
+### Github Repo:
 
 And you can check out the code here:
 
 {% linkpreview "https://github.com/MikeS96/bayesbb" %}
+
+
+### Project Report:
 
 And a report coming soon! Stay tuned :P
 
